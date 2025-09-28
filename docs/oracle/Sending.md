@@ -1,0 +1,29 @@
+
+# Spell: Sending
+**Class**: Oracle  
+**Level**: 4  
+**Casting Time**: 10 minutes  
+**Range**: see text  
+**Target**: one creature  
+**Area**:   
+**Effect**: _None_  
+**Duration**: 1 round; see text  
+**Saving Throw**: None (none)  
+**Spell Resistance**: No (no)  
+**DC**: 14  
+**Caster Level**: 1  
+**Spontaneous**: Yes
+
+---
+
+### 🔮 Components
+- **Components**: Verbal, Somatic, Material or Divine Focus
+
+### 🏫 School
+- ** School **: Evocation,Wood Elemental
+- ** Subschool **: undefined
+- ** Descriptor **: undefined
+---
+
+### 📜 Description
+You contact a particular creature with which you are familiar and send a short message of 25 words or less to the subject. The subject recognizes you if it knows you. It can answer in like manner immediately. A creature with an Intelligence score as low as 1 can understand the sending, though the subject's ability to react is limited as normal by its Intelligence. Even if the sending is received, the subject is not obligated to act upon it in any manner. If the creature in question is not on the same plane of existence as you are, there is a 5% chance that the sending does not arrive. (Local conditions on other planes may worsen this chance considerably.)

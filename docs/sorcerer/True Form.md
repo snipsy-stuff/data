@@ -1,0 +1,29 @@
+
+# Spell: True Form
+**Class**: Sorcerer  
+**Level**: 4  
+**Casting Time**: 1 action  
+**Range**: medium (100 + 10 ft./level)  
+**Target**: up to one creature/3 levels, no two of which can be more than 30 ft. apart  
+**Area**:   
+**Effect**: _None_  
+**Duration**: 1 round/level  
+**Saving Throw**: Will negates (+4 vs. Will negates)  
+**Spell Resistance**: Yes (yes)  
+**DC**: 14  
+**Caster Level**: 1  
+**Spontaneous**: Yes
+
+---
+
+### 🔮 Components
+- **Components**: Verbal, Somatic
+
+### 🏫 School
+- ** School **: Abjuration
+- ** Subschool **: undefined
+- ** Descriptor **: undefined
+---
+
+### 📜 Description
+True form removes any polymorph effect from a target creature, returning it to its true form, even against its will. Against creatures affected by polymorph spell effects (such as baleful polymorph or giant form), you must make a caster level check (1d20 + caster level, maximum +15) against a DC of 11 + caster level of the effect. Success means that the polymorph effect immediately ends. A creature with the supernatural ability to change shape (such as a lycanthrope) must make a Will saving throw or immediately revert to its true form. If it fails this first saving throw, the creature can attempt another Will saving throw to overcome the spell as a full-round action that does not provoke attacks of opportunity. If this save succeeds, the spell ends and the creature is capable of changing shape once again. If the second save fails, the creature is locked in its true form for the duration of the spell, preventing any further polymorph effects from changing its shape.
